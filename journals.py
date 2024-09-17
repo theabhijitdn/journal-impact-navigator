@@ -67,6 +67,6 @@ filtered_data = data[
 ]
 
 # Display filtered data with full width
-st.write('developed by Abhijit https://github.com/theabhijitdn')
+st.write('Developed by Abhijit Debnath (https://github.com/theabhijitdn)')
 st.write('Filtered Data:')
 st.dataframe(filtered_data, use_container_width=True)
