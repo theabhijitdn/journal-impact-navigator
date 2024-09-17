@@ -12,7 +12,7 @@ def load_data():
 data = load_data()
 
 # Title
-st.title('Journal Data Filtering')
+st.title('Journal Impact Navigator')
 
 # Sidebar filters
 st.sidebar.header('Filter Options')
