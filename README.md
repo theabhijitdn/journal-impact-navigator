@@ -1,6 +1,6 @@
 # Journal Impact Navigator
 
-An interactive Streamlit application for exploring and filtering scientific journal data based on various metrics including Impact Factor, Quartile, Publisher, Category, Region, and Country.
+An interactive Streamlit application (https://journal-impact-navigator.streamlit.app/) for exploring and filtering scientific journal data based on various metrics including Impact Factor, Quartile, Publisher, Category, Region, and Country.
 
 ## Table of Contents
 - [Overview](#overview)
